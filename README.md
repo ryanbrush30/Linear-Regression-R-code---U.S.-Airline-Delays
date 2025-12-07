@@ -81,4 +81,4 @@ Kaggle: https://www.kaggle.com/datasets/shubhamsingh42/flight-delay-dataset-2018
 Author
 Ryan Brush
 Data Scientist
-LinkedIn: https://www.linkedin.com/in/ryanbrush
+LinkedIn: https://www.linkedin.com/in/ryancbrush
